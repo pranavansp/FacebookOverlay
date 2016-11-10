@@ -1,3 +1,2 @@
-# FacebookOverlay
-
-BeTheDev - Visit Site for Complete Guide http://www.bethedev.com
+# facebookOverlay
+BeTheDev http://www.bethedev.com/
